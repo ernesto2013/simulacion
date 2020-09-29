@@ -12,7 +12,7 @@ rigid
 3
 # atomic positions
 0 CH3_sp3 0.00 0.00 -0.77
-1 COM     0.00 0.00  0.00
+1 COM_CH3     0.00 0.00  0.00
 2 CH3_sp3 0.00 0.00  0.77
 # Chiral centers Bond  BondDipoles Bend  UrayBradley InvBend  Torsion Imp. Torsion Bond/Bond Stretch/Bend Bend/Bend Stretch/Torsion Bend/Torsion IntraVDW IntraCoulomb
                0    2            0    0            0       0        0            0         0            0         0               0            0        0            0
