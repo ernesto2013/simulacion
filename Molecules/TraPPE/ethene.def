@@ -1,0 +1,22 @@
+# critical constants: Temperature [T], Pressure [Pa], and Acentric factor [-]
+282.35
+5041800.0
+0.0866
+# Number Of Atoms
+3
+# Number Of Groups
+1
+# Alkene-group
+rigid
+# number of atoms
+3
+# atomic positions
+0 CH2_sp2  0.0       0.0    -0.665
+1 N_com    0.0       0.0     0.0
+2 CH2_sp2  0.0       0.0     0.665
+# Chiral centers Bond  BondDipoles Bend  UrayBradley InvBend  Torsion Imp. Torsion Bond/Bond Stretch/Bend Bend/Bend Stretch/Torsion Bend/Torsion IntraVDW IntraCoulomb
+               0    2            0    0            0       0        0            0         0            0         0               0            0        0            0
+# Bond stretch: atom n1-n2, type, parameters
+0 1 RIGID_BOND
+1 2 RIGID_BOND
+
